@@ -1,2 +1,2 @@
 # singlepageapp
-About the info
+About the info and also the changes
